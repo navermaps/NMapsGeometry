@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/NMGLatLngBounds.h</key>
 		<data>
-		KYwjq7J+lu48I+PH6m07YvZdOFs=
+		UdcC3iaWS+DIeS6zCrpCVWGDkmQ=
 		</data>
 		<key>Headers/NMGLineString.h</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Headers/NMGWebMercatorCoord.h</key>
 		<data>
-		v/IZkMv3bwJGeiqVQVVLVmnQjI8=
+		Ih/WDvdEwiwiKBTP+pwgDtzL0/0=
 		</data>
 		<key>Headers/NMapsGeometry.h</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		MbjnGY/p92GpcbwpzhEQ5GDgOb4=
+		qidTtwO/IWWZXkXxN/OtenPSXE8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -123,11 +123,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KYwjq7J+lu48I+PH6m07YvZdOFs=
+			UdcC3iaWS+DIeS6zCrpCVWGDkmQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			4f6Twy0FKROIvzQ6ED9p60lMk7rw6rriYFcUAMypT18=
+			IAUBiwoo/qBX5EDZnt2WRbvQNIoAcF/rlpyLO2kT0yE=
 			</data>
 		</dict>
 		<key>Headers/NMGLineString.h</key>
@@ -222,11 +222,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			v/IZkMv3bwJGeiqVQVVLVmnQjI8=
+			Ih/WDvdEwiwiKBTP+pwgDtzL0/0=
 			</data>
 			<key>hash2</key>
 			<data>
-			6Lf+k5jDq/bvZMHBdNK3n1srlILwmhMXhmgW4BCKDnQ=
+			AUnqRhahKU1dkzEPnUZxT6gMp0xa5Dqk0ObZAb+bTNo=
 			</data>
 		</dict>
 		<key>Headers/NMapsGeometry.h</key>
